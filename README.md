@@ -1,2 +1,2 @@
-# Chess Craze
+# Neko Chesu
 Simple chess game
