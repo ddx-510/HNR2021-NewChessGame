@@ -1,1 +1,2 @@
-# HNR2021-NewChessGame
+# Chess Craze
+Simple chess game
